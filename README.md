@@ -1,1 +1,1 @@
-# Exo-1-Eric-Semedo-Tavares-Todo-Liste-Python
+Realisation d'une todo list avec Python
