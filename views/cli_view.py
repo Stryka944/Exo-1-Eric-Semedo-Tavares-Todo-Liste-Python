@@ -8,7 +8,8 @@ class CLIView:
         print("\n=== ToDoList CLI ===")
         print("1. Ajouter une tâche")
         print("2. Voir toutes les tâches")
-        print("3. Quitter")
+        print("3. Supprimer une tâche")
+        print("4. Quitter")
 
     @staticmethod
     def ask_user_input(prompt):
