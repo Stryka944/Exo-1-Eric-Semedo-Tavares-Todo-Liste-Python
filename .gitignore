@@ -1,0 +1,15 @@
+# --- Environnements virtuels ---
+venv/
+.env/
+
+# --- Fichiers Python inutiles ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Fichiers système ---
+.DS_Store
+
+# --- Données locales (ex : tâches sauvegardées) ---
+data/
