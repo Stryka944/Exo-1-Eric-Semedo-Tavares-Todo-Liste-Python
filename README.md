@@ -14,7 +14,7 @@ Une petite application Flask écrite en Python, permettant de gérer des tâches
 - Python 3.9+
 - Flask
 
-## 📦 Installation
+## Installation
 
 Créer un environnement virtuel
 
