@@ -40,15 +40,3 @@ Exo-1-Eric_Semedo_Tavares/
 ├── requirements.txt # Dépendances Python
 ├── .gitignore # Fichiers ignorés par Git
 └── README.md # Documentation
-
-Tests
-
-Teste des routes avec curl ou Postman :
-
-# Lister les tâches
-
-curl http://127.0.0.1:5000/tasks
-
-# Ajouter une tâche
-
-curl -X POST -H "Content-Type: application/json" -d '{"title": "Faire les courses"}' http://127.0.0.1:5000/tasks
